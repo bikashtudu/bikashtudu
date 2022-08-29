@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 **Github Stats:**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark" alt="Bikash's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark" alt="My Github stats" />
   
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark)]()
+ 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjungautam1&theme=dark&border=DDDDDD)](https://git.io/streak-stats) -->
