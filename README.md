@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 **Github Stats:**
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark" alt="My Github stats" />
+  
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark&count_private=true)]()
   
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashtudu&show_icons=true&include_all_commits=true&theme=dark)]()
  
